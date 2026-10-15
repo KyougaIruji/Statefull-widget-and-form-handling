@@ -1,3 +1,4 @@
 # form_registration
-
-A new Flutter project.
+- life cycle of Stateful Widget
+- make input and validation form
+- State managing
